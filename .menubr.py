@@ -272,7 +272,7 @@ def ejecutar_opcion(opcion):
         time.sleep(1)
         #Cambiar cat por type para windows
         print("\033[1;32m")
-        os.system("cat READMEBR.MD") 
+        os.system("cat READMEBR.md") 
         
     elif opcion == 9:
         print("\033[31m")
