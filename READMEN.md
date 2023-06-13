@@ -31,11 +31,12 @@ Extracting links from web pages, as well as domains and subdomains, is one of th
 ## REQUIREMENTS
 
 - apt update && apt upgrade -y
-- apt install python3 -y
-- apt install nmap -y
-- apt install curl -y
-- apt install git -y
-- pip install requests
+- pkg install python3 -y
+- pkg install nmap -y
+- pkg install curl -y
+- pkg install git -y
+- pip3 install requests
+- pip3 install urllib3
 
 ## FACILITY
 
