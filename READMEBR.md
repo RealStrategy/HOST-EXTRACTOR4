@@ -30,12 +30,13 @@ Extrair links de páginas da web, bem como domínios e subdomínios, é uma das 
 
 ## REQUISITOS
 
-- apt atualizar && apt atualizar -y
-- apt instalar python3 -y
-- apt instalar nmap -y
-- apt instalar curl -y
-- apt instalar git -y
-- pip solicitações de instalação
+- apt update && apt upgrade -y
+- pkg install python3 -y
+- pkg install nmap -y
+- pkg install curl -y
+- pkg install git -y
+- pip3 install requests
+- pip3 install urllib3
 
 ## INSTALAÇÃO
 
