@@ -35,6 +35,7 @@ Extracting links from web pages, as well as domains and subdomains, is one of th
 - pkg install nmap -y
 - pkg install curl -y
 - pkg install git -y
+- pkg install python-pip
 - pip3 install requests
 - pip3 install urllib3
 
