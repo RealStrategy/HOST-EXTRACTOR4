@@ -35,6 +35,7 @@ Extraer enlaces de paginas web, asi como dominios y subdominios, es una de las p
 - pkg install nmap -y
 - pkg install curl -y
 - pkg install git -y
+- pkg install python-pip
 - pip3 install requests
 - pip3 install urllib3
 
