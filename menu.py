@@ -262,7 +262,7 @@ def ejecutar_opcion(opcion):
         print(f"Organizacion: {ip_data.get('org', '')}")
         print(f"Ubicacion: {ip_data.get('city', '')}, {ip_data.get('region', '')}, {ip_data.get('country', '')}")
         print(f"Direccion IP: {ip_data['ip']}")
-        print(f"Código Postal: {ip_data.get('postal', '')}")
+        print(f"Codigo Postal: {ip_data.get('postal', '')}")
         print(f"Coordenadas: {ip_data.get('loc', '')}")
         print(f"Proveedor de servicios de Internet: {ip_data.get('isp', '')}")
         print(f"Zona horaria: {ip_data.get('timezone', '')}")
@@ -285,7 +285,7 @@ def ejecutar_opcion(opcion):
         print("")
         return False
     else:
-        print("Opción invalida.")
+        print("Opcion invalida.")
 
     input("\nPresione Enter para continuar...")
     return True
