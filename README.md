@@ -41,8 +41,8 @@ Extraer enlaces de paginas web, asi como dominios y subdominios, es una de las p
 
 ## INSTALACION
 
-- git clone https://github.com/RealStrategy/host-extractor4.git
-- cd host-extractor4
+- git clone https://github.com/RealStrategy/HOST-EXTRACTOR4.git
+- cd HOST-EXTRACTOR4
 - chmod +x menu.py
 - python3 menu.py
 
