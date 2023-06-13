@@ -1,8 +1,6 @@
 # HOST-EXTRACTOR (Irparpayaña) V3.0
----
-Significado: Acompañar a uno hasta ponerlo en camino "Irparpayaña"
 
-Lenguaje: Aymara - Peru
+Irparpayaña: La palabra proviene del lenguaje aymara de peru y su significado es acompañar a uno hasta ponerlo en camino.
 
 ## DATOS DEL PROYECTO
 
@@ -12,6 +10,9 @@ Lenguaje: Aymara - Peru
 - Actualizado: 01/03/2022 / Todo Real
 - Nueva Actualizacion: 13/06/2023 / @RealStrategy 
 
+## EXTRACTOR ONLINE
+
+- [Click Here](https://todoreal.com/link-extractor/)
 ## OBJETIVO PRINCIPAL
 
 Extraer enlaces de paginas web, asi como dominios y subdominios, es una de las principales funcionalidades de esta herramienta. Ademas, ofrece amplias opciones para obtener informacion completa de sitios web. Su uso principal radica en la creacion de accesos libres a Internet utilizando aplicaciones VPN y cargas utiles.
@@ -50,5 +51,3 @@ Extraer enlaces de paginas web, asi como dominios y subdominios, es una de las p
 - SITIO WEB: https://todoreal.com
 - GITHUB: https://github.com/RealStrategy
 - FACEBOOK: https://www.facebook.com/todorealvip
-- APLICACION: https://bit.ly/3O5BCcG
-- EXTRACTOR ONLINE: https://todoreal.com/link-extractor/
