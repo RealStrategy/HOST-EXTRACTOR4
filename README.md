@@ -13,6 +13,7 @@ Irparpayaña: La palabra proviene del lenguaje aymara de peru y su significado e
 ## EXTRACTOR ONLINE
 
 - [Click Here](https://todoreal.com/link-extractor/)
+- [Tutorial v3](https://todoreal.com/nueva-actualizacion-de-host-extractor-v3/)
 ## OBJETIVO PRINCIPAL
 
 Extraer enlaces de paginas web, asi como dominios y subdominios, es una de las principales funcionalidades de esta herramienta. Ademas, ofrece amplias opciones para obtener informacion completa de sitios web. Su uso principal radica en la creacion de accesos libres a Internet utilizando aplicaciones VPN y cargas utiles.
