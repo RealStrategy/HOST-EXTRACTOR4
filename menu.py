@@ -237,7 +237,7 @@ def change_language():
 
 def ejecutar_opcion(opcion):
     if opcion == 1:
-        print("\033[1;32m")
+        print("\033[32m")
         extraer_links()
     elif opcion == 2:
         print("")
@@ -271,8 +271,8 @@ def ejecutar_opcion(opcion):
     elif opcion == 8:
         time.sleep(1)
         #Cambiar cat por type para windows
-        print("\033[1;32m")
-        os.system("cat README.MD") 
+        print("\033[32m")
+        os.system("cat README.md") 
         
     elif opcion == 9:
         print("\033[31m")
