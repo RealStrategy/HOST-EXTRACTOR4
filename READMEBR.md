@@ -35,6 +35,7 @@ Extrair links de páginas da web, bem como domínios e subdomínios, é uma das 
 - pkg install nmap -y
 - pkg install curl -y
 - pkg install git -y
+- pkg install python-pip
 - pip3 install requests
 - pip3 install urllib3
 
