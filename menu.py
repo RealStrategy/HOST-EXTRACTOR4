@@ -119,6 +119,7 @@ def extract_external_subdomains(url, urls):
 
 def extraer_subdominios():
     url = input("\033[32mIngrese la URL Completa: ")
+    print("Puede ocurrir un error en algunos sitios.")
     print("")
     response = requests.get(url)
     html_content = response.text
