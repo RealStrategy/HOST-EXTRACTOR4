@@ -1,4 +1,4 @@
-# HOST-EXTRACTOR (Irparpayaña) V3.0
+# HOST-EXTRACTOR (Irparpayaña) V4.0
 
 Irparpayaña: La palabra proviene del lenguaje aymara de peru y su significado es acompañar a uno hasta ponerlo en camino.
 
@@ -10,7 +10,7 @@ Irparpayaña: La palabra proviene del lenguaje aymara de peru y su significado e
 - Actualizado: 01/03/2022 / Todo Real
 - Nueva Actualizacion: 13/06/2023 / @RealStrategy 
 
-## EXTRACTOR ONLINE
+## EXTRACTOR ONLINE V3.0
 
 - [Click Here](https://todoreal.com/link-extractor/)
 - [Tutorial v3](https://todoreal.com/nueva-actualizacion-de-host-extractor-v3/)
