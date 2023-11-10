@@ -35,7 +35,7 @@ def mostrar_menu():
     print("| |___  >  < | |_ | |   | (_| || (__ | |_ | (_) || |        ")
     print("\____/ /_/\_\ \__||_|    \__,_| \___| \__| \___/ |_|        ")
     print("                                                            ")
-    print(color_verde + "V= 3.0                        I R P A R P A Y A Ñ A      " + color_reset)
+    print(color_verde + "V= 4.0                        I R P A R P A Y A Ñ A      " + color_reset)
     print("")
     print(color_cyan + "1. Extractor de Host ")
     print("2. Extractor de Subdominios ")
